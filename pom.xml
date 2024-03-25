@@ -30,7 +30,7 @@
 		<maven.compiler.release>11</maven.compiler.release>
 		<mockito.version>5.8.0</mockito.version>
 		<log4j.version>2.22.1</log4j.version>
-		<netty.version>4.1.104.Final</netty.version>
+		<netty.version>4.1.108.Final</netty.version>
 		<async-http-client.version>2.12.3</async-http-client.version>
 		<apache.hc4.version>4.5.14</apache.hc4.version>
 		<apache.ahc4.version>4.1.5</apache.ahc4.version>
